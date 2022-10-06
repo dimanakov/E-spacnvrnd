@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @E-spacnvrnd
+- 👋 Hi, I’m Dmitry @E-spacnvrnd
 - 👀 I’m interested in medicine, space
 - 🌱 I’m currently learning backend technologies.
 - 💞️ I’m looking to collaborate on ...
